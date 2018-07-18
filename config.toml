@@ -1,0 +1,19 @@
+baseURL = "http://ahmadiham.id/"
+languageCode = "en-us"
+title = "AhmadiHam.id"
+copyright = "Copyright &copy; 2018 - Ahmadi Hamid"
+canonifyurls = true
+theme = "kiera"
+disqusShortname = "ahmadiham-id"
+
+
+[author]
+    name = "ahmadihamid"
+    github = "ahmadihamid"
+    gitlab = "ahmadihamid"
+    telegram = "halamanbelakang"
+    lichess = "hirotomo"
+    email = "admin@ahmadihamid.com"
+
+[params]
+    tagline = "Catatan Ahmadi Hamid"
